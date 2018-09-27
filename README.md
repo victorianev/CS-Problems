@@ -1,2 +1,2 @@
 # UVA-Online-Judge
-Source codes for problems
+Source codes for different problems on this site.
